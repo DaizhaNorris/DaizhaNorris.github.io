@@ -1,7 +1,17 @@
 h2 {
-  color: navy blue
+  color: gold
 }
-h6 {
+h1 {
 
-  color: maroon 
+  color: maroon
+}
+a.Diflink {
+  font-size: 20px;
+}
+img {
+  border-style: solid;
+  border-width: thick;
+  border-color:  navy blue
+}
+p {width: 200px
 }
