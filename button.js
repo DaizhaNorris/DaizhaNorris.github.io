@@ -4,6 +4,6 @@ function sayHello(name) {
 
 }
 function hello() {
-$("#greetingtext")
+$("#greetingtext").text('Hello');
 
 }
